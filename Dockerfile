@@ -1,5 +1,5 @@
 FROM ubuntu:latest
 
-RUN sleep 20
+RUN sleep 40
 
 # this is a commentt
