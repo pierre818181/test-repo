@@ -1,5 +1,5 @@
 FROM ubuntu:latest
 
-RUN sl
+RUN sleep 20
 
 # this is a commentt
